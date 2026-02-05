@@ -15,7 +15,7 @@ We are building the infrastructure to run Julia natively in the browser without 
 * **[Sessions.jl](https://github.com/GroupTherapyOrg/Sessions.jl)**
     * *The IDE (Planned).* A Pluto-inspired, Wasm-capable hybrid notebook and environment built entirely in Therapy.jl.
  
-* **[Suite.jl](https://github.com/GroupTherapyOrg/Suite.jl)[TODO]**
+* **[Suite.jl](https://github.com/GroupTherapyOrg/Suite.jl) [TODO]**
     * *The Components.* A composable UI component library for Therapy.jl — unstyled primitives and styled defaults, inspired by Radix and shadcn/ui. Use programmatically or extract into your project.
 
 ---
