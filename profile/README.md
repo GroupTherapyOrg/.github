@@ -2,7 +2,7 @@
 
 **Native Julia. WasmGC. No glue code.**
 
-We are building the infrastructure to run Julia natively in the browser without a heavy runtime. This is an active R&D ecosystem targeting the WebAssembly Garbage Collection (WasmGC) proposal.
+Attempting to build the infrastructure to run Julia natively in the browser without a heavy runtime. This is an active R&D ecosystem targeting the WebAssembly Garbage Collection (WasmGC) proposal.
 
 ### The Stack
 
