@@ -15,7 +15,7 @@ Attempting to build the infrastructure to run Julia natively in the browser with
 * **[Recall.jl](https://github.com/GroupTherapyOrg/Recall.jl) [TODO]**
     * *The Backend.* A reactive backend platform for Therapy.jl — Julia functions as queries, real-time sync, ACID transactions, and automatic caching. Inspired by Convex. Your data layer, written in pure Julia.
 
-* **[Suite.jl](https://github.com/GroupTherapyOrg/Suite.jl) [TODO]**
+* **[Suite.jl](https://github.com/GroupTherapyOrg/Suite.jl)**
     * *The Components.* A composable UI component library for Therapy.jl — unstyled primitives and styled defaults, inspired by Radix and shadcn/ui. Use programmatically or extract into your project.
 
 * **[Sessions.jl](https://github.com/GroupTherapyOrg/Sessions.jl) [TODO]**
